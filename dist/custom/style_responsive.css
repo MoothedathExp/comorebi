@@ -13,4 +13,32 @@
   overflow: hidden;
 }
 
+
+
+.carousel-caption {
+    top: 10%;
+    transform: translateY(-10%);
+    
+  }
+
+
 }
+
+@media only screen and (max-width: 600px) {
+    .h300
+    {
+      
+      max-height: 200px;
+      overflow: hidden;
+    }
+    
+    
+    
+    .carousel-caption {
+        top: 10%;
+        transform: translateY(-10%);
+        
+      }
+    
+    
+  }

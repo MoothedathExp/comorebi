@@ -358,7 +358,7 @@ border-bottom-color: #fff;
 .bg-dark_skm
 {
 
-background-color: rgba(0, 0, 0, 0.94) !important;
+background-color:#414141 !important; /* rgba(0, 0, 0, 0.94) !important;*/
 background: url(images/sy3.webp) repeat;
 
 
@@ -367,7 +367,7 @@ background: url(images/sy3.webp) repeat;
 .bgw
 {
   padding-top: 15px !important;
-background-color: rgba(4, 4, 4, 0.667) !important;
+background-color:#414141 !important;/* rgba(4, 4, 4, 0.667) !important;*/
 color: rgb(255, 255, 255) !important;
 }
 
@@ -685,3 +685,26 @@ font-size: 13px !important;
 {
   font-size: 22px !important;
 }
+
+.g1 
+{
+  background: #b1dd3e !important;
+}
+
+
+.g2 
+{
+  background: #69b24d !important;
+}
+
+
+.g3
+{
+  background: #8dc845 !important;
+}
+
+.g3
+{
+  background: #414141 !important;
+}
+

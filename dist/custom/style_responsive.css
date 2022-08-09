@@ -6,6 +6,11 @@
     font-size: 14px !important;
 }
 
-
+.h300
+{
+  
+  max-height: 200px;
+  overflow: hidden;
+}
 
 }

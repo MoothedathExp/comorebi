@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Petit+Formal+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;0,900;1,100;1,200;1,300&display=swap');
 .btn-outline-info {
   --bs-btn-color: #92ffaa;
   --bs-btn-border-color: #068e24aa;
@@ -165,7 +166,7 @@
   padding: 0;
   box-sizing: border-box;
   /* font-family: "Poppins", sans-serif; */
-  font-family: 'Lato', sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -373,7 +374,9 @@ color: rgb(255, 255, 255) !important;
 
 #cursive
 {
-font-family: 'Petit Formal Script', cursive !important;
+/* font-family: 'Petit Formal Script', cursive !important; */
+
+font-family: 'Lato', sans-serif;
 }
 
 

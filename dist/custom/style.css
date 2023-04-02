@@ -284,7 +284,7 @@
 
 .bi {
   vertical-align: -.125em;
-  fill: #757f8f;
+  fill: #ffffff;
 }
 
 .nav-scroller {
@@ -366,7 +366,7 @@ background: url(images/sy3.webp) repeat;
 }
 .bg-dark
 {
-  background-color:#302121 !important;
+  background-color:#11990e !important;
 }
 .text-secondary
 {
@@ -391,6 +391,7 @@ font-family: 'Montserrat', sans-serif !important;
 .borderu
 {
   border-radius: 50px !important;
+  background: #e3ff66;
 }
 
 

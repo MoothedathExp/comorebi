@@ -135,9 +135,7 @@
          url('fonts/poppins-v20-latin-900.svg#Poppins') format('svg'); /* Legacy iOS */
   }
 
-
-
-
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,700;0,900;1,100;1,200;1,300&display=swap');
 
  html { 
   /* background: #060606;;
@@ -167,7 +165,8 @@
   box-sizing: border-box;
   /* font-family: "Poppins", sans-serif; */
   /* font-family: 'Montserrat', sans-serif; */
-  font-family: 'Lato', sans-serif;
+  /* font-family: 'Lato', sans-serif; */
+  font-family: 'Montserrat', sans-serif;
 }
 
 
@@ -175,7 +174,7 @@
 .bgmx {
   
   animation: chbg 9s ease 1s infinite normal both;
-  background-size:cover
+  background-size:cover;
 }
 @keyframes chbg {
   0% {
@@ -367,7 +366,7 @@ background: url(images/sy3.webp) repeat;
 }
 .bg-dark
 {
-  background-color:#414141 !important;
+  background-color:#302121 !important;
 }
 .text-secondary
 {
@@ -530,6 +529,7 @@ font-size: 13px !important;
   font-weight: bold;
   letter-spacing: 0.05em;
   border-radius: 0;
+  margin-top:5px;
 }
 
 .btn-colour-1:hover,
@@ -720,3 +720,13 @@ font-size: 13px !important;
   background: #414141 !important;
 }
 
+
+.choco
+{
+  color: #6b4949 !important;
+}
+
+
+.card-img-overlay {
+  background-color: rgba(#000, 0.4);
+}

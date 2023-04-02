@@ -731,3 +731,9 @@ font-size: 13px !important;
 .card-img-overlay {
   background-color: rgba(#000, 0.4);
 }
+
+
+.bim {
+  vertical-align: -0.125em;
+  fill: #9d9999;
+}
